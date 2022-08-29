@@ -1,0 +1,14 @@
+header {
+}
+.game_points {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+}
+.user_points {
+    display: flex;
+    flex-direction: column;
+}
+.serving {
+    background-color: lightgreen;
+}
